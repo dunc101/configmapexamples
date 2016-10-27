@@ -1,0 +1,7 @@
+server:
+  port: 8080
+user:
+  first-name: Dustin
+  last-name: Duncan
+  username: dustin.duncan@ipacc.com
+  password: testpass
